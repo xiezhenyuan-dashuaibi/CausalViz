@@ -1,9 +1,0 @@
-LICENSE
-README.md
-setup.py
-CausalViz/__init__.py
-causalviz.egg-info/PKG-INFO
-causalviz.egg-info/SOURCES.txt
-causalviz.egg-info/dependency_links.txt
-causalviz.egg-info/requires.txt
-causalviz.egg-info/top_level.txt
