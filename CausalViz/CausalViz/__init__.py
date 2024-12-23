@@ -4,7 +4,7 @@ CausalViz - 低维度因果分析可视化工具
 一个用于进行低维度因果分析和可视化的Python库。
 """
 
-__version__ = "0.1.0"
+__version__ = "0.2.0"
 __author__ = "xiezhenyuan-dashuaibi"
 __author_email__ = "546091915@qq.com"
 __license__ = "MIT"
