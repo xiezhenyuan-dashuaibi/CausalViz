@@ -101,6 +101,8 @@ y = (x3+10)/20*10*x1 + (10-x3)/20*x1**2 + (x2/2)**2 + (x4/2)**2 + 2*x5 + x6 + x7
 pip install CausalViz
 ### 使用方法
 ```python
+from CausalViz import CausalVisualizer
+
 visualizer = CausalVisualizer()
 
 visualizer.load_data(df,y_col='y')
